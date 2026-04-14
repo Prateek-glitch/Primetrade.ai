@@ -1,0 +1,18 @@
+2026-04-15 00:50:50,960 - TradingBot - INFO - Attempting to place MARKET BUY order for 0.01 BTCUSDT
+2026-04-15 00:50:51,435 - TradingBot - ERROR - Binance API Exception: 400 - Timestamp for this request is outside of the recvWindow.
+2026-04-15 00:52:47,958 - TradingBot - INFO - Attempting to place MARKET BUY order for 0.01 BTCUSDT
+2026-04-15 00:52:48,142 - TradingBot - INFO - Order Success! ID: 13035391646, Status: NEW
+2026-04-15 00:54:12,600 - TradingBot - INFO - Attempting to place LIMIT SELL order for 0.01 BTCUSDT
+2026-04-15 00:54:13,059 - TradingBot - INFO - Order Success! ID: 13035393858, Status: NEW
+2026-04-15 01:13:04,447 - TradingBot - INFO - Attempting to place MARKET BUY order for 0.01 BTCUSDT
+2026-04-15 01:13:04,646 - TradingBot - INFO - Order Success! ID: 13035425198, Status: NEW
+2026-04-15 01:13:16,299 - TradingBot - INFO - Attempting to place LIMIT SELL order for 0.01 BTCUSDT
+2026-04-15 01:13:16,486 - TradingBot - INFO - Order Success! ID: 13035425662, Status: NEW
+2026-04-15 01:13:23,521 - TradingBot - INFO - Attempting to place STOP-LIMIT BUY order for 0.01 BTCUSDT at limit 65000.0 (Trigger: 64500.0)
+2026-04-15 01:13:23,701 - TradingBot - ERROR - Binance API Exception: 400 - Order would immediately trigger.
+2026-04-15 01:14:15,636 - TradingBot - INFO - Attempting to place STOP-LIMIT BUY order for 0.01 BTCUSDT at limit 76500.0 (Trigger: 76000.0)
+2026-04-15 01:14:15,846 - TradingBot - INFO - Stop-Limit Order Success! ID: None, Status: None
+2026-04-15 01:15:00,491 - TradingBot - INFO - Attempting to place LIMIT SELL order for 0.01 BTCUSDT
+2026-04-15 01:15:00,906 - TradingBot - INFO - Order Success! ID: 13035428857, Status: NEW
+2026-04-15 01:16:43,836 - TradingBot - INFO - Attempting to place MARKET BUY order for 0.01 BTCUSDT
+2026-04-15 01:16:44,033 - TradingBot - INFO - Order Success! ID: 13035431414, Status: NEW
