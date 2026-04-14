@@ -156,7 +156,7 @@ python -m bot.cli --symbol BTCUSDT --side BUY --type STOP --quantity 0.01 --pric
 ### Diagram
 
 <div align="center">
-  <img src="https://github.com/Prateek-glitch/Primetrade.ai/blob/main/architecture.svg?raw=true" alt="Architecture Diagram: CLI to Binance API" width="95%" />
+  <img src="https://github.com/Prateek-glitch/Primetrade.ai/blob/main/architecture1.svg" alt="Architecture Diagram: CLI to Binance API" width="95%" />
 </div>
 
 ### Flow
